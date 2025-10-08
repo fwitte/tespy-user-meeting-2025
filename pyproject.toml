@@ -1,0 +1,15 @@
+[project]
+name = "tespy-user-meeting-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "tespy",
+    "nbformat",
+    "ipykernel",
+    "nbconvert>=7.16.6",
+]
+
+[tool.uv.sources]
+tespy = { path = "../tespy", editable = true }
