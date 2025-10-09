@@ -9,8 +9,12 @@
 - [PolynomialCompressor](notebooks/compressor.ipynb)
 - [HeatExchangers](notebooks/heatexchangers.ipynb)
 
-## Introductory tutorial
+## Inject custom equations into your model
+
+- [UserDefinedEquation](notebooks/userdefinedeq.ipynb)
+
+## Introductory tutorial, Collaboration with git
+
+- [Introduction](notebooks/introductory.ipynb)
 
 ## uv instead of conda
-
-## Collaboration with git
