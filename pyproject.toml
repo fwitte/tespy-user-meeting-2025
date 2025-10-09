@@ -9,6 +9,7 @@ dependencies = [
     "nbformat",
     "ipykernel",
     "nbconvert>=7.16.6",
+    "fluprodia>=3.5.1",
 ]
 
 [tool.uv.sources]
