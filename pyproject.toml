@@ -10,6 +10,7 @@ dependencies = [
     "ipykernel",
     "nbconvert>=7.16.6",
     "fluprodia>=3.5.1",
+    "exerpy>=0.0.2"
 ]
 
 [tool.uv.sources]
